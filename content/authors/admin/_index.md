@@ -14,7 +14,7 @@ interests:
 organizations:
 - name: University of Southern Denmark 
   url: https://www.sdu.dk/
-role: Professor of Artificial Intelligence
+role: Associate Professor 
 social:
 - icon: envelope
   icon_pack: fas
