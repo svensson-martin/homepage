@@ -3,24 +3,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mathematics
+    institution: Lund University
+    year: 2004
 email: ""
 highlight_name: false
 interests:
+- Differential Geometry
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Southern Denmark 
+  url: https://www.sdu.dk/
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
