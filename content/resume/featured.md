@@ -1,3 +1,4 @@
+---
 widget: featured
 headless: true  # This file represents a page section.
 
@@ -22,3 +23,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+---
+
+This is a test
