@@ -1,0 +1,20 @@
+---
+title: August test
+author: Martin Svensson
+date: '2022-08-07'
+slug: august-test
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-08-07T10:52:14+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+This is a test for blogdown on new laptop. 
