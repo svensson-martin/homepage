@@ -1,7 +1,9 @@
 ---
-title: Publications
+#title: Publications
 date: "`r Sys.Date()`"
 ---
+
+# Publications
 
 Here is the first publication. 
 
