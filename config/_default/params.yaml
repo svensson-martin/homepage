@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: Earth
 day_night: true
 font: ''
 font_size: M
@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: false
@@ -97,12 +97,12 @@ show_related:
   page: false
   post: true
   project: true
-  publication: true
+  publication: false
   event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
