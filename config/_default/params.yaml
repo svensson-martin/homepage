@@ -81,7 +81,7 @@ highlight_languages:
   - latex
 features:
   math: true
-#math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
