@@ -39,8 +39,6 @@ superuser: true
 title: Martin Svensson
 ---
 
-I lead an exciting department with expertise spanning across HPC, cybersecurity, computer science, data science, artificial intelligence, mathematical modelling, operator algebras, differential geometry, quantum theory and quantum technology. My own research interests focus on harmonic maps in differential geometry
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MS_CV.pdf" "newtab" >}}short CV{{< /staticref >}}.
