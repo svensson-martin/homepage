@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include integrable systems, harmonic maps, singularities and machine learning.
 education:
   courses:
   - course: PhD in Mathematics
@@ -10,11 +9,13 @@ email: ""
 highlight_name: false
 interests:
 - Differential Geometry
-- Artificial Intelligence
+- Harmonic Maps
+- Singularities
+- Data Science and Machine Learning
 organizations:
-- name: University of Southern Denmark 
-  url: https://www.sdu.dk/
-role: Associate Professor 
+- name: Department of Mathematics and Computer Science, University of Southern Denmark 
+  url: https://www.sdu.dk/en/imada
+role: Associate Professor and Head of Department
 social:
 - icon: envelope
   icon_pack: fas
@@ -23,8 +24,8 @@ social:
     header: false
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+# label: Follow me on Twitter
+  link: https://twitter.com/MSvenssonDK
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -33,13 +34,13 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/martin-svensson-3a710657
 superuser: true
 title: Martin Svensson
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I lead an exciting department with expertise spanning across HPC, cybersecurity, computer science, data science, artificial intelligence, mathematical modelling, operator algebras, differential geometry, quantum theory and quantum technology. My own research interests focus on harmonic maps in differential geometry
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MS_CV.pdf" "newtab" >}}short CV{{< /staticref >}}.

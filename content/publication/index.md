@@ -1,6 +1,10 @@
 ---
+#cms_exclude: true
+#header:
+#  caption: ""
+#  image: ""
 title: Publications
-date: "`r Sys.Date()`"
+#view: 4
 ---
 
 ## Journal publications
@@ -60,4 +64,5 @@ M. Svensson, *Harmonic morphisms, Hermitian structures and symmetric spaces*, Do
 M. Svensson, *Harmonic morphisms, foliations and Hermitian structures*, Licentiate thesis, Lund University, 2002.
 
 M. Svensson, *Polynomial harmonic morphisms*, Master's dissertation, Lund University, 1998.
+
 

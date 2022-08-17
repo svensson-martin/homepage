@@ -4,5 +4,5 @@ private: true
 outputs:
 - wowchemycms_config
 - HTML
-type: wowchemycms
+#type: wowchemycms
 ---
