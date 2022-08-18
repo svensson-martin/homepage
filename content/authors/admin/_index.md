@@ -11,7 +11,8 @@ interests:
 - Differential Geometry
 - Harmonic Maps
 - Singularities
-- Data Science and Machine Learning
+- Data Science and Data Visualisation 
+- Machine Learning
 organizations:
 - name: Department of Mathematics and Computer Science, University of Southern Denmark 
   url: https://www.sdu.dk/en/imada
