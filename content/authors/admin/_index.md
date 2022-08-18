@@ -11,7 +11,7 @@ interests:
 - Differential Geometry
 - Harmonic Maps
 - Singularities
-- Data Science and Data Visualisation 
+- Data Science and Data Visualization 
 - Machine Learning
 organizations:
 - name: Department of Mathematics and Computer Science, University of Southern Denmark 
