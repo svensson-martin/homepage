@@ -1,5 +1,5 @@
 ---
-bio: My research interests include integrable systems, harmonic maps, singularities and machine learning.
+bio: My research interests include integrable systems, harmonic maps, singularities, data science and machine learning.
 education:
   courses:
   - course: PhD in Mathematics
@@ -40,6 +40,5 @@ superuser: true
 title: Martin Svensson
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MS_CV.pdf" "newtab" >}}short CV{{< /staticref >}}.
+
