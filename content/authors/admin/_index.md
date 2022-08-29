@@ -35,7 +35,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/martin-svensson-3a710657
+  link: https://www.linkedin.com/in/martin-svensson-3a710657/ 
 superuser: true
 title: Martin Svensson
 ---
