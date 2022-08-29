@@ -10,6 +10,7 @@ highlight_name: false
 interests:
 - Differential Geometry
 - Harmonic Maps
+- Integrable Systems
 - Singularities
 - Data Science and Data Visualization 
 - Machine Learning
