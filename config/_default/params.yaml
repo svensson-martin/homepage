@@ -5,7 +5,8 @@
 
 # Appearance
 
-theme_day: Earth #changed from theme to theme_day
+theme_night: Earth #changed from theme to theme_day
+theme_day: Earth
 day_night: true
 font: ''
 font_size: M
@@ -62,7 +63,7 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: false
+  show_day_night: true #changed from false
   show_search: false
   highlight_active_link: true
 
