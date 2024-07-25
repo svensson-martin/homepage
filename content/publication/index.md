@@ -11,9 +11,9 @@ title: Publications
 
 N. Correira, R. Pacheco and M. Svensson, [*Harmonic surfaces in the Cayley plane*](https://doi.org/10.1112/jlms.12376), J. Lond. Math. Soc. **103** (2021), 353--371. [arXiv](https://arxiv.org/abs/1905.08353) 
 
-A. Aleman, M. J. Martin, A. M. Persson and M. Svensson, [*Continuous deformations of harmonic maps and their unitons*](https://doi.org/10.1007/s00220-014-2182-y), Monatshefte für Mathematik **190** (2019), 599--614. [arXiv](https://arxiv.org/abs/1702.06171)
+A. Aleman, M. J. Martin, A. M. Persson and M. Svensson, [*Continuous deformations of harmonic maps and their unitons*](https://doi.org/10.1007/s00605-019-01265-x), Monatshefte für Mathematik **190** (2019), 599--614. [arXiv](https://arxiv.org/abs/1702.06171)
 
-S. Gudmundsson, M. Svensson and M. Ville, [*Complete minimal submanifolds of compact Lie groups*](https://doi.org/10.1007/s00220-014-2182-y), Math. Z. *282* (2016), 993--1005. [arXiv](https://arxiv.org/abs/1308.4781)
+S. Gudmundsson, M. Svensson and M. Ville, [*Complete minimal submanifolds of compact Lie groups*](https://doi.org/10.1007/s00209-015-1574-9), Math. Z. *282* (2016), 993--1005. [arXiv](https://arxiv.org/abs/1308.4781)
 
 J. .C. Wood and M. Svensson, [*Harmonic maps into the exceptional symmetric space G<sub>2</sub>/SO(4)*](https://doi.org/10.1112/jlms/jdu073), J. Lond. Math. Soc. *91* (2015), 291--319. [arXiv](https://arxiv.org/abs/1303.7176)
 
