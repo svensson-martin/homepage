@@ -9,7 +9,7 @@ title: Publications
 
 ## Journal publications
 
-N. Correira, R. Pacheco and M. Svensson, [*Harmonic surfaces in the Cayley plane*]([https://doi.org/10.1112/jlms.12376), J. Lond. Math. Soc. **103** (2021), 353--371. [arXiv](https://arxiv.org/abs/1905.08353) 
+N. Correira, R. Pacheco and M. Svensson, [*Harmonic surfaces in the Cayley plane*](https://doi.org/10.1112/jlms.12376), J. Lond. Math. Soc. **103** (2021), 353--371. [arXiv](https://arxiv.org/abs/1905.08353) 
 
 A. Aleman, M. J. Martin, A. M. Persson and M. Svensson, [*Continuous deformations of harmonic maps and their unitons*](https://doi.org/10.1007/s00220-014-2182-y), Monatshefte für Mathematik **190** (2019), 599--614. [arXiv](https://arxiv.org/abs/1702.06171)
 
