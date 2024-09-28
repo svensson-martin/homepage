@@ -21,7 +21,7 @@ R. Slobodeanu and M. Svensson, [*Skyrme-Faddeev instantons on complex surfaces*]
 
 S. Gudmundsson and M. Svensson, [*Harmonic morphisms from four-dimensional Lie groups*](https://doi.org/10.1016/j.geomphys.2014.04.009), J. Geom. Phys. **83** (2014), 1--11. [arXiv](https://arxiv.org/abs/1310.5113)
 
-S. Gudmunsson and M. Svensson, [*Harmonic morphisms from homogeneous spaces of positive curvature*](https://doi.org/10.1017/S0305004114000334), Math. Proc. Cambridge Philos. Soc. **157** (2014), 321--327. [arXiv](https://arxiv.org/abs/1312.6515)
+S. Gudmundsson and M. Svensson, [*Harmonic morphisms from homogeneous spaces of positive curvature*](https://doi.org/10.1017/S0305004114000334), Math. Proc. Cambridge Philos. Soc. **157** (2014), 321--327. [arXiv](https://arxiv.org/abs/1312.6515)
 
 J. C. Wood and M. Svensson, [*New constructions of twistor lifts for harmonic maps*](https://doi.org/10.1007/s00229-014-0659-9), Manuscripta Math. **144** (2014), 457--502. [arXiv](https://arxiv.org/abs/1106.1832)
 
